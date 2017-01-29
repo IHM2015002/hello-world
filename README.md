@@ -1,4 +1,4 @@
-# hello-world
-just another repository
-Hi Humanas.
-           prince here,i like coding.But i want to learn more.
+# hello-worl
+
+Hi Humanas,
+           prince here,i want to learn coding.
