@@ -1,3 +1,1 @@
-# hello-world
-#Hi coder this is prince
-just another repository
+#Hi this is prince
