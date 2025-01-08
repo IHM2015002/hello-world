@@ -5,5 +5,6 @@ def factorial(n):
 	return mul
 
 if __name__ == "__main__":
+	#Taking input from user
 	n = int(input("Enter a number to find its factorial: "))
 	print(f"factorial of {n} = {factorial(n)}")
